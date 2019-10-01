@@ -1,4 +1,0 @@
-timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
-1569970960213,79,Login,401,,Thread Group 1-1,text,false,,797,278,1,1,http://localhost:8080/rest/auth/1/session/,78,0,50
-1569970960332,20,Create an issue,400,,Thread Group 1-1,text,false,,853,531,1,1,http://localhost:8080/rest/api/2/issue/,17,0,0
-1569970960357,0,Debug Sampler,200,OK,Thread Group 1-1,text,true,,408,0,1,1,null,0,0,0
